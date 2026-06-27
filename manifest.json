@@ -1,0 +1,119 @@
+{
+  "prospects": [
+    {
+      "slug": "mojo-real-estate-kc",
+      "name": "MoJo Real Estate Team",
+      "current_site": "https://mojokc.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/mojo-real-estate-kc/",
+      "score": 55,
+      "created_at": "2026-06-13T05:07:56.442110+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862014+00:00"
+    },
+    {
+      "slug": "united-real-estate-kc",
+      "name": "United Real Estate Kansas City",
+      "current_site": "https://unitedrealestatekansascity.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/united-real-estate-kc/",
+      "score": 55,
+      "created_at": "2026-06-13T05:07:56.473627+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862140+00:00"
+    },
+    {
+      "slug": "area-real-estate-kc",
+      "name": "AREA Real Estate Advisors",
+      "current_site": "https://openarea.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/area-real-estate-kc/",
+      "score": 62,
+      "created_at": "2026-06-13T19:27:58.631311+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862247+00:00"
+    },
+    {
+      "slug": "grieve-group-kc",
+      "name": "The Grieve Group (Access KC)",
+      "current_site": "https://www.accesskc.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/grieve-group-kc/",
+      "score": 68,
+      "created_at": "2026-06-13T19:27:58.663829+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862362+00:00"
+    },
+    {
+      "slug": "wardell-holmes-kc",
+      "name": "Wardell & Holmes Real Estate",
+      "current_site": "https://www.wardellholmes.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/wardell-holmes-kc/",
+      "score": 70,
+      "created_at": "2026-06-13T19:27:58.695897+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862477+00:00"
+    },
+    {
+      "slug": "rost-group-kc",
+      "name": "The Rost Group",
+      "current_site": "https://www.therostgroup.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/rost-group-kc/",
+      "score": 72,
+      "created_at": "2026-06-13T19:27:58.728537+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862578+00:00"
+    },
+    {
+      "slug": "guide-group-kc",
+      "name": "Guide Group KC",
+      "current_site": "https://guidegroupkc.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/guide-group-kc/",
+      "score": 73,
+      "created_at": "2026-06-13T19:27:58.760036+00:00",
+      "status": "archived",
+      "archived_at": "2026-06-19T03:11:10.862667+00:00"
+    },
+    {
+      "slug": "sean-roque-team-kc",
+      "name": "Sean Roque Team (One Stop Realty)",
+      "current_site": "https://seanroqueteam.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/sean-roque-team-kc/",
+      "score": 9,
+      "created_at": "2026-06-24T02:35:02.208666+00:00",
+      "status": "active"
+    },
+    {
+      "slug": "dr-brian-jones-realtor-kc",
+      "name": "Dr. Brian Jones, Realtor",
+      "current_site": "https://drbrianjonesrealtor.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/dr-brian-jones-realtor-kc/",
+      "score": 45,
+      "created_at": "2026-06-24T02:35:02.208666+00:00",
+      "status": "active"
+    },
+    {
+      "slug": "triple-h-team-kc",
+      "name": "Chris Higgins \u00b7 Triple H Team (KC Realtors)",
+      "current_site": "https://teamhhh.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/triple-h-team-kc/",
+      "score": 47,
+      "created_at": "2026-06-24T02:35:02.208666+00:00",
+      "status": "active"
+    },
+    {
+      "slug": "reilly-real-estate-kc",
+      "name": "Reilly Real Estate",
+      "current_site": "http://reilly.realestate",
+      "our_site": "https://indiestagers.github.io/realtor-samples/reilly-real-estate-kc/",
+      "score": 48,
+      "created_at": "2026-06-24T02:35:02.208666+00:00",
+      "status": "active"
+    },
+    {
+      "slug": "joe-stephenson-realtor-kc",
+      "name": "Joe Stephenson, REALTOR",
+      "current_site": "https://www.reecenichols.com",
+      "our_site": "https://indiestagers.github.io/realtor-samples/joe-stephenson-realtor-kc/",
+      "score": 43,
+      "created_at": "2026-06-24T02:35:02.208666+00:00",
+      "status": "active"
+    }
+  ]
+}
