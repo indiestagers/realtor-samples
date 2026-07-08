@@ -5,17 +5,17 @@
 
 :root {
   /* Palette — brand tokens filled by build.py from site.config.json */
-  --ink: #111111;
+  --ink: #111827;
   --ink-2: #17221a;
   --ink-3: #233024;
-  --cream: #faf7f3;
+  --cream: #f8f5ee;
   --cream-2: #f2efdf;
   --cream-3: #e5e3cd;
-  --green: #012169;
-  --green-2: #013dc3;
-  --green-3: #000d2c;
-  --gold: #c9a24b;
-  --navy: #000000;
+  --green: #2563eb;
+  --green-2: #93c5fd;
+  --green-3: #1e3a8a;
+  --gold: #c7a44a;
+  --navy: #0f172a;
   --white: #fffdf8;
   --muted: #687062;
   --muted-on-ink: #a2ae9c;
@@ -925,7 +925,7 @@ ul, ol { list-style: none; }
 .toast.is-visible { transform: translate(-50%, 0); }
 .toast svg { width: 17px; height: 17px; color: var(--green-2); flex: none; }
 
-/* logo image + photo avatars + subtle side-note (design update) */
+/* logo image + photo avatars (added) */
 .brand__logo--img { padding: 0.3rem 0.5rem; }
 .brand__logo--img img { height: 40px; width: auto; max-width: 180px; display: block; object-fit: contain; }
 .team-card__avatar--photo { object-fit: cover; padding: 0; border: 2px solid var(--green-2); }

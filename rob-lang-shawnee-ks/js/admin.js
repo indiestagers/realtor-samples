@@ -8,7 +8,7 @@
 (function () {
   "use strict";
 
-  const PASSCODE = "reilly-real-estate-kc2026"; // demo passcode — change before handoff
+  const PASSCODE = "rob-lang-shawnee-ks2026"; // demo passcode — change before handoff
   const AUTH_KEY = "hr_admin_auth";
   const MAX_IMG_BYTES = 800 * 1024;
 
@@ -315,7 +315,7 @@
     const blob = new Blob([JSON.stringify(listings, null, 2)], { type: "application/json" });
     const a = document.createElement("a");
     a.href = URL.createObjectURL(blob);
-    a.download = "reilly-real-estate-kc-listings.json";
+    a.download = "rob-lang-shawnee-ks-listings.json";
     a.click();
     URL.revokeObjectURL(a.href);
     hrToast("Listings exported as JSON.");

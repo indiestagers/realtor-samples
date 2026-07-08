@@ -104,15 +104,26 @@
       "our_site": "https://indiestagers.github.io/realtor-samples/reilly-real-estate-kc/",
       "score": 48,
       "created_at": "2026-07-06T12:00:00+00:00",
-      "status": "active"
+      "status": "archived",
+      "archived_at": "2026-07-08T04:16:13+00:00",
+      "archive_reason": "Current website reviewed as good; not a fit for outreach."
     },
     {
       "slug": "joe-stephenson-realtor-kc",
       "name": "Joe Stephenson, REALTOR",
-      "current_site": "https://www.reecenichols.com",
+      "current_site": "https://ksrealtyagent.com/",
       "our_site": "https://indiestagers.github.io/realtor-samples/joe-stephenson-realtor-kc/",
       "score": 43,
       "created_at": "2026-07-06T12:00:00+00:00",
+      "status": "active"
+    },
+    {
+      "slug": "rob-lang-shawnee-ks",
+      "name": "Rob Lang - At Home Kansas",
+      "current_site": "https://www.askroblang.com/",
+      "our_site": "https://indiestagers.github.io/realtor-samples/rob-lang-shawnee-ks/",
+      "score": 29,
+      "created_at": "2026-07-08T04:16:13+00:00",
       "status": "active"
     }
   ]
